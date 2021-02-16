@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 speechrecognition = "*"
 ipykernel = "*"
+scipy = "*"
+spleeter = "*"
 
 [dev-packages]
 
