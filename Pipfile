@@ -8,6 +8,13 @@ speechrecognition = "*"
 ipykernel = "*"
 scipy = "*"
 spleeter = "*"
+spleeter-gpu = "*"
+matplotlib = "*"
+pulp = "*"
+pandas = "*"
+flake8 = "*"
+autopep8 = "*"
+pylint = "*"
 
 [dev-packages]
 
